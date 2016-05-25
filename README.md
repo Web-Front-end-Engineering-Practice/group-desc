@@ -32,9 +32,9 @@ Apache License Version 2.0
 [npm-url]: https://npmjs.org/package/group-desc
 [downloads-image]: http://img.shields.io/npm/dm/group-desc.svg
 [npm-image]: http://img.shields.io/npm/v/group-desc.svg
-[travis-url]: https://travis-ci.org/anonymous/group-desc
-[travis-image]: http://img.shields.io/travis/anonymous/group-desc.svg
-[david-dm-url]:https://david-dm.org/anonymous/group-desc
-[david-dm-image]:https://david-dm.org/anonymous/group-desc.svg
-[david-dm-dev-url]:https://david-dm.org/anonymous/group-desc#info=devDependencies
-[david-dm-dev-image]:https://david-dm.org/anonymous/group-desc/dev-status.svg
+[travis-url]: https://travis-ci.org/Web-Front-end-Engineering-Practice/group-desc
+[travis-image]: http://img.shields.io/travis/Web-Front-end-Engineering-Practice/group-desc.svg
+[david-dm-url]:https://david-dm.org/Web-Front-end-Engineering-Practice/group-desc
+[david-dm-image]:https://david-dm.org/Web-Front-end-Engineering-Practice/group-desc.svg
+[david-dm-dev-url]:https://david-dm.org/Web-Front-end-Engineering-Practice/group-desc#info=devDependencies
+[david-dm-dev-image]:https://david-dm.org/Web-Front-end-Engineering-Practice/group-desc/dev-status.svg
